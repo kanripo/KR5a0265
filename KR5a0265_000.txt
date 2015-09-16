@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 金丹大成
-#+DATE: 2015-08-28 23:43:41
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:43:38.309941
+#+TITLE: 修真十書金丹大成集
+#+PROPERTY: DZID  DZ0263b
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，4—633 五卷 洞真部方法類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
